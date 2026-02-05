@@ -1,6 +1,9 @@
 # ROS2-Turtlesim-Letter-Trajectory
 ROS2 turtlesim-based implementation for drawing letter trajectories (R/O/S)
 
+## Task_3 Questions:
+***In a separate python script, design ‘R’, ‘O’, ‘S’ trajectories for different colors with different
+colors.***
 ## 1. 创建 ROS2 工作空间
    在主目录创建ros2_ws工作空间
 ```
