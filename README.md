@@ -30,7 +30,7 @@ cd ~/ros2_ws/src/turtle_spawner/turtle_spawner
 ```
 touch Task_3.py
 ```
-   将代码复制到新建的Task_3.py 文件爱你
+   将代码复制到新建的Task_3.py 文件
 ```
 gedit Task_3.py
 ```
